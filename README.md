@@ -1,2 +1,2 @@
 # dmc-devops
-Repositorio Taller Devops
+## Repositorio de Práctica DevOps
